@@ -37,4 +37,4 @@ Unit tests are available in ArithmeticIntepreterUnitTest project.
 
 ## External resources
 * [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) - transform infix notation to postfix notation
-* [Inspiration in codeproject.com](https://www.codeproject.com/Tips/370486/Converting-InFix-to-PostFix-using-Csharp-VB-NET) - concrete implementation od infix to postfix notation
+* [Inspiration in codeproject.com](https://www.codeproject.com/Tips/370486/Converting-InFix-to-PostFix-using-Csharp-VB-NET) - concrete implementation of infix to postfix notation
